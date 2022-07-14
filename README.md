@@ -1,5 +1,5 @@
 - 👋 Olá, eu sou @izaque459
 - 👀 Eu sou interessado em desenvolvimento fullstack
-- 🌱 Eu estou inciando a faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
+- 🌱 Eu estou no terceiro periodo da faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
 - 💞️ Posso ajudar com lógica de programação e projetos de algoritmos
 - 📫 Me encontre no https://www.linkedin.com/in/isaac-santos-9b7a601a1/
