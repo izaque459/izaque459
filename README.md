@@ -2,4 +2,4 @@
 - 👀 Eu sou interessado em desenvolvimento backend
 - 🌱 Eu estou no quinto periodo da faculdade de Tecnologia em Análise e Desenvolvimento de Sistemas
 - 💞️ Posso ajudar com lógica de programação e projetos de algoritmos
-- 📫 Me encontre no https://www.linkedin.com/in/isaac-santos-9b7a601a1/
+- 📫 Me encontre no [https://www.linkedin.com/in/isaac-santos-9b7a601a1/](linkedin)
